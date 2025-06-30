@@ -106,7 +106,11 @@ ArduinoJson – to parse incoming JSON strings.
 🚀 Getting Started
 1. Install Requirements
 Install Overwolf App and register yours self as devloper.
-Here, is video https://youtu.be/6hskY4Dfrns?si=OKSnm7hqK6oQW1yb for Overwolf Application Development Tutorial
+Here, is video https://youtu.be/6hskY4Dfrns?si=OKSnm7hqK6oQW1yb for Overwolf Application Development Tutorial.
+Once you have this Devloper sample-app will available
+![image](https://github.com/user-attachments/assets/cd3c6732-ec06-484f-ad69-852dbc2258f8)
+![image](https://github.com/user-attachments/assets/0988c331-4b45-4342-af78-6043f5ea3538)
+
 
 After, doing that find background_controller.js file in OverwolfDev sample-app (it will be in native → windows folders) and edit it.
 
