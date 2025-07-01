@@ -82,8 +82,6 @@ Component	Function
 Arduino Uno R4 / Uno	Microcontroller
 
 Pin Mapping (default):
-Copy
-Edit
 Green LEDs: 2, 3, 4, 5, 6  
 Red LED: 7  
 Blue LED: 8  
